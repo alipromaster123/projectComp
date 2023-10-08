@@ -1,0 +1,17 @@
+.main_div{
+    width: 40%;
+    padding: 2% 2%;
+    margin: 2%;
+}
+
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 150vh;
+    
+}
+
+.label{
+ text-align: center;
+}
